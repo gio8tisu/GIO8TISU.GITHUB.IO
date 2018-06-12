@@ -1,3 +1,3 @@
-# Hello world! :wave:
+# Hello world!
 
-My name is Sergio and this is my (yet to be made) projects web page.
+:wave: My name is Sergio and this is my (yet to be made) projects web page.
